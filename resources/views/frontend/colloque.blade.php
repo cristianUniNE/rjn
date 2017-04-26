@@ -34,7 +34,7 @@
                                 </h3>
 
                                 @if(isset($colloque['programme']))
-                                    <p> <a target="_blank" href="{{ $colloque['programme'] }}">
+                                    <p> <a target="_blank" href="https://www.publications-droit.ch/files/colloques/programme/94a857046d0e72ae9e7c58a46d4b8f2f.pdf">
                                         &nbsp;<i class="fa fa-file-o"></i> &nbsp;&nbsp;Le programme
                                     </a></p>
                                 @endif
